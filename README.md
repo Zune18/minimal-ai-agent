@@ -11,3 +11,14 @@ Get an API key from [OpenRouter](https://openrouter.ai/). Create a `.env` file i
 
 ```.env
 OPENROUTER_API_KEY=your_api_key_here
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Agent
+```bash
+python main.py
+```
